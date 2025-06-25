@@ -14,9 +14,9 @@ It supports:
 
 ## Project Files
 
-- `SmartBotA.py`: Main assistant script (CLI-based)
-- `visualize_kg.py`: Load and visualize the saved KG as interactive HTML
-- `knowledge_graph.ttl`: Knowledge Graph saved in Turtle format (auto-generated)
+- `smart_rag_assistant.py`: Main assistant script (CLI-based)
+- `visualize_knowledge_graph.py`: Load and visualize the saved KG as interactive HTML
+- `requirements.txt`: Dependencies required
 
 ## Setup
 
