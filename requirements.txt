@@ -1,0 +1,9 @@
+transformers
+accelerate
+sentence-transformers
+langchain
+langchain-community
+chromadb
+rdflib
+huggingface_hub
+pyvis
